@@ -15,6 +15,7 @@ You are provided with an existing task-management system that uses object-orient
 - Remember that accessor methods on a Record are name() vs getName() and priority vs getPriority()
 - You can use Global Replace feature in IntelliJ to update all the references
 - Ensure the program still compiles and runs
+- Stage and commit this change with the commit message "Converted Task to Record"
 
 
 ### Step 2: Seal the Command Hierarchy
